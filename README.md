@@ -1,6 +1,9 @@
 flickr-downloader
 ============
 
+sudo apt-get install python-flickrapi python-pip
+sudo pip install pyprind joblib eventlet
+
 Please create a new file flickr_api_key.py by copying
 flickr_api_key_EXAMPLE.py and pasting your Flickr API key and secret.
 
